@@ -1,0 +1,6 @@
+5
+ssn;0
+COUNT(Salary);1
+MAX(Salary);2
+MIN(Salary);3
+SUM(Salary);4
